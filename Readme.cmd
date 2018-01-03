@@ -1,2 +1,0 @@
-
-Testing Polling for CI
